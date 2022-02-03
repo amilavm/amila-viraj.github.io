@@ -1,0 +1,21 @@
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+achievements:
+
+- title: Global Rank 312 and Master Level
+  image: /images/sections/achievements/master4.jpg
+  summary: Achieved Global Ranking of 365 and Champions level in Machie Hack.
+  
+- title: Top 2 Percentage
+  image: /images/sections/achievements/Olympiad.jpg
+  summary: Top 26 in All India Analytics Olympiad 2021.
+
+- title: Top 1 Percentage
+  image: /images/sections/achievements/Amex-2021-n.png
+  summary: Top 34 in Amex ML Hackathon 2021.

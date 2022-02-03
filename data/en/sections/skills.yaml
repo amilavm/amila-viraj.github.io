@@ -1,0 +1,61 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Using as the main language for professional development. Capable of using different libraries and frameworks to analyz, explore and visualize the data and have experience in developing and deploying the models to production."
+  url: ""
+
+- name: Machine Learning
+  logo: "/images/sections/skills/ml.png"
+  summary: "Applied Supervised and Unsupervised techniques to build the models and get the prediction. Have knowledge of different statistical models and their optimization techniques."
+  url: ""
+
+- name: Deep Learning
+  logo: "/images/sections/skills/dp.png"
+  summary: "Have knowledge and hands on experience in building stae of the art ANNs."
+
+- name: Data Analytics
+  logo: "/images/sections/skills/da.png"
+  summary: "Capable of collecting and interpreting data. Analyzing and reporting results. identifying the patterns and trends in the dataset."
+
+- name: Cloud
+  logo: "/images/sections/skills/cloud.jpg"
+  summary: "Deployed many ML and DL web apps in <b>Heroku</b>. Have Working experience with <b>Docker and Anaconda virtual environments</b> and also have basic knowledge about netlify and AWS."
+
+- name: Platforms, IDE and Operating Systems
+  logo: "/images/sections/skills/ide.jpg"
+  summary: "<b>Platforms and IDEs :</b> Jupyter Notebook, VSCode, Google Colab.
+          <br><b>Operating Systems:</b> Windows, Linux."
+
+- name: Development Frameworks
+  logo: "/images/sections/skills/lightning.png"
+  summary: "Have knowledge and hands-on experience in building state of the art ANNs in <b><br>Pytorch, Keras, Pytorchlightning, Tensorflow.</b>"
+
+- name: Deployment Frameworks
+  logo: "/images/sections/skills/flask.png"
+  summary: "Served ML and DL models as a web application using different frameworks like <b><br>Flask, Streamlit and Gradio</b>"
+
+- name: Databases and Query Languages
+  logo: "/images/sections/skills/databases.png"
+  summary: "<b>Known Databases:</b> Mysql, Firebase. 
+            <br><b>Known query languages:</b> SQL, Bigquery."
+
+- name: Other Languages
+  logo: "/images/sections/skills/program.png"
+  summary: 'Have knowledge in the following programing languages <br>C, C++, HTML, CSS, JS.'
+
+- name: Version Controlling and Source Code Management.
+  logo: "/images/sections/skills/git.png"
+  summary: 'Have the Working Experience in <b>Git, Github, DVC and Dagshub</b>.'
+
+

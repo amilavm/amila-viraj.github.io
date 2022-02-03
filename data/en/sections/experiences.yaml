@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Tata Elxsi
+    url: "https://www.tataelxsi.com/"
+    location: Bengaluru
+    # company overview
+    overview: Tata Elxsi is a widely recognized company in various domains and constantly works on innovative projects.
+  positions:
+  - designation: Senior Software Engineer
+    start: October 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Worked on a Multiplayer Edtech Game development project as a Team Lead and Lead Developer for one of India’s Biggest Ed-tech Firm.
+    - Worked in collaboration with multiple teams of clients from various nations to develop and improve the product. Taking care of on time delivery from the team.
+    - Automated the complete performance review pipeline using python. Which includes analyzing the data and generating
+      the report based on the available data. It helped the team to save a huge amount of time in surfing the Excel sheet to
+      generate the report manually.
+
+
+  - designation: Software Engineer
+    start: October 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: October 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Worked on a Game development project as a Developer, which is been used by millions of users.
+    - Developed a framework to automate the most of the development process, which helped to reduce the development time significantly. 
+- company:
+    name: Omdena
+    url: "https://omdena.com/"
+    #location: Bengaluru
+    # company overview
+    overview: Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems.
+  positions:
+  - designation: Machine Learning Engineer
+    start: October 2021
+    responsibilities:
+    - Working in collaboration with the Sensai team to identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine Learning techniques and causal inference mechanisms. 
+      The dataset is a multivariate time series data collected from different machines and applications in hybrid data centers.
+      check out more <a href="https://omdena.com/projects/root-cause-analysis/" target="_blank"> here</a>
+    - technique used – Fbprophet for Multivariate time series Anomaly detection.. 
+    

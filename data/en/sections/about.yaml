@@ -1,0 +1,70 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Scientist
+# your company information
+company:
+  name: Engenuity Ai
+  url: "https://www.engenuityai.com/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Ashwath_Resume_.pdf"
+
+# a summary about you
+summary: "My interest in Mathematics and Problem solving make me get into the Machine Learning field.
+          I love finding the patterns, exploring the data and solving complicated problems in a simple way.
+          I love to learn new stuff and work with like-minded people to solve interesting problems, which explains
+          why i participate a lot in hackathons and open-source projects, Keep in touch."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/amilavm"
+
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/amila-viraj/"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/12343112/amila-viraj"
+
+
+# - name: Kaggle
+#   icon: "fab fa-kaggle"
+#   url: "https://www.kaggle.com/ashwathshetty"
+
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+certification:
+- name: Artificial Intelligence and Machine Learning
+  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+softSkills:
+- name: Problem Solving
+  percentage: 95
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+
+- name: Leadership
+  percentage: 85
+  color: orange
+
+- name: Public Speaking
+  percentage: 85
+  color: sky

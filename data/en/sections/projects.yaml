@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: deep learning
+  filter: "Deep learning"
+- name: machine learning
+  filter: "machine learning"
+# - name: Hobby
+#   filter: "hobby"
+
+# your projects
+projects:
+- name: Using Machine Learning for Root Cause Analysis of Anomalies
+  logo: /images/sections/projects/datacenters.png
+  role: Contributor
+  url: https://omdena.com/projects/root-cause-analysis/
+  summary: Anomaly Detection and Root Cause Analysis for the data centers Time series Data using Unsupervised ML techniques.
+  tags: ['machine learning','Time Series Analysis', 'Causal Inference']
+  
+- name: Car Price Prediction
+  logo: /images/sections/projects/car.png
+  role: Owner
+  #timeline: "March 2018 - Present"
+  repo: https://github.com/Ashwath-Shetty/Car-Price-Predictor # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://www.kaggle.com/ashwathshetty/car-price-prediction"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: This Web App Predicts the price of the Car based on the user provided inputs. [Click here to see the live demo](https://car--price-predictor.herokuapp.com/)
+  tags: ["Regression","Python","Tabular data","statistical model","machine learning"]
+
+- name: Character Recognizer
+  logo: /images/sections/projects/letter.jpg
+  role: Owner
+  repo: https://github.com/Ashwath-Shetty/Hand-written-digit-recognizer
+  summary: This Web App predicts the Characters drawn on the canvas using Deep learning-Computer Vision technique. [Click here to see the live demo](https://handwritten-text-recognizer.herokuapp.com/)
+  tags: ['Deep learning','Computer Vision']
+
+#- name: Using Machine Learning for Root Cause Analysis of Anomalies
+  #logo: /images/sections/projects/datacenters.png

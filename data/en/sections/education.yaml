@@ -1,0 +1,31 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Tech in Computer Science and Engineering
+  icon: fa-graduation-cap
+  timeframe: 2015-2019
+  institution:
+    name: Dayanand Sagar University
+    url: "#"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 8.8
+    outOf: 10
+  takenCourses:
+   showGrades: false
+   courses: 
+   - name: Data Science
+   - name: Data Structures and algorithms
+   - name: Probability and Statistics
+   - name: Machine Learning
+   - name: Database Management System
+   - name: Object Oriented Programming
