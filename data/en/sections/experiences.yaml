@@ -11,33 +11,56 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Tata Elxsi
-    url: "https://www.tataelxsi.com/"
-    location: Bengaluru
+    name: Engenuity Ai
+    url: "https://www.engenuityai.com/"
+    location: Colombo
     # company overview
-    overview: Tata Elxsi is a widely recognized company in various domains and constantly works on innovative projects.
+    overview: Engenuity Ai is a cutting edge Ai and Data Science company which helps clients to extract valuable business insights from their data to better understand their audience, forecast demand, reduce risks, prevent cost overruns, also to
+              create innovative & market-leading solutions and much more.If you are looking for a data science consultancy or a reliable technology partner to create innovative, market-leading solutions.
   positions:
-  - designation: Senior Software Engineer
-    start: October 2019
+  - designation: Data Scientist
+    start: July 2021
+    responsibilities:
+    - Collaborate and work closely with clients, senior management, stakeholders and other technical teams for AI and Data Science based solution development.
+    - Designing, development and deployment of application components and ML pipelines.
+    - ML model training, retraining, testing and deployments.
+    - Monitoring and resolving performance issues in application components, ML models and algorithms.
+    - Maintain coding standards, conducting code reviews and support team members on technical issue resolution.
+    - Working with different projects using different technologies such as Natural Language Processing, Computer Vision & Image processing, Deep Learning (Neural Network) etc.
+
+- company:
+    name: Virtusa Corporation
+    url: "https://www.virtusa.com/"
+    location: Colombo
+    # company overview
+    overview: Virtusa Corporation is a global provider of Digital Business Transformation, Digital Engineering, and 
+              Information Technology (IT) outsourcing services that accelerate our clients’ journey to their Digital Future. 
+              Virtusa serves Global 2000 companies in Banking, Financial Services, Insurance, Healthcare, Telecommunications, Media, Entertainment, Travel, Manufacturing, and Technology industries.
+  positions:
+  - designation: Senior Machine Learning Engineer
+    start: January 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: June 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Worked on a Multiplayer Edtech Game development project as a Team Lead and Lead Developer for one of India’s Biggest Ed-tech Firm.
-    - Worked in collaboration with multiple teams of clients from various nations to develop and improve the product. Taking care of on time delivery from the team.
-    - Automated the complete performance review pipeline using python. Which includes analyzing the data and generating
-      the report based on the available data. It helped the team to save a huge amount of time in surfing the Excel sheet to
-      generate the report manually.
+    - Collaborated with multiple AI research & development teams to design & develop advanced AI solutions for different overseas clients in different business domains. Specially in banking and finance industry.
 
-
-  - designation: Software Engineer
-    start: October 2019
+  - designation: Software & AI/ML Engineer
+    start: March 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: October 2021
+    end: December 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Worked on a Game development project as a Developer, which is been used by millions of users.
-    - Developed a framework to automate the most of the development process, which helped to reduce the development time significantly. 
+    - Worked with AI/ML & software development teams to design & implement intelligent solutions and ensure accurate integrations and deployments.
+
+  - designation: Software Engineering Intern
+    start: September 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: February 2018
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Contributed to the production solutions’ development and deployment.
+
 - company:
     name: Omdena
     url: "https://omdena.com/"
@@ -45,11 +68,8 @@ experiences:
     # company overview
     overview: Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems.
   positions:
-  - designation: Machine Learning Engineer
-    start: October 2021
+  - designation: Machine Learning Engineer (Open-Source Contributions)
+    # start: October 2021
     responsibilities:
-    - Working in collaboration with the Sensai team to identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine Learning techniques and causal inference mechanisms. 
-      The dataset is a multivariate time series data collected from different machines and applications in hybrid data centers.
-      check out more <a href="https://omdena.com/projects/root-cause-analysis/" target="_blank"> here</a>
-    - technique used – Fbprophet for Multivariate time series Anomaly detection.. 
+    - Working in collaboration with ML teams to create an Automated Redaction Wizard that utilizes optical character recognition (OCR), Natural Language Processing (NLP), and Machine Learning Algorithms.
     

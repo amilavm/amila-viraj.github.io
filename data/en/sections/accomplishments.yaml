@@ -10,63 +10,85 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: All Hackathons
+- name: Azure Cloud Certifications
   #timeline: "March 2018 - March 2019"
   organization:
-    name: 
-    url: https://www.udemy.com/course/complete-python-bootcamp/
-  courseOverview: "[Machine hack](https://machinehack.com/user/profile/ui/5fb74a785067312a2af5315d)
-     <li> [26th / Top 2% in all India Analytics Olympiad](https://machinehack.com/hackathons/data_analytics_championship/leaderboard)
-     <li> [76(Top 5%) in Deloitte hackathon](https://machinehack.com/hackathon/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/leaderboard)
-     <li>[41(Top 7%) in Tredence hackathon](https://machinehack.com/hackathon/odetocode_predicting_weather_using_alien_fruit_properties/leaderboard)<br>
-    <br>[51(Top 1%) in Hackerearth's Amex hackathon](https://www.hackerearth.com/challenges/competitive/amexpert-code-lab/leaderboard/credit-card-default-risk-5-95cbc85f/page/2/)<br>
-    <br>[34th(Top 1% percent) in Analytics Vidya's AmExpert Hackathon ](https://datahack.analyticsvidhya.com/contest/amexpert-2021-machine-learning-hackathon/#LeaderBoard)
-  "
-  #certificateURL: "https://www.udemy.com/certificate/UC-E158KZ4R/"
+    name: Azure | Microsoft
+    url: https://azure.microsoft.com/en-us/
+  courseOverview: "Completed Certifications:
+  <br>1. [Microsoft Certified: Azure AI Engineer Associate](https://www.credly.com/badges/ff1c6fb4-871b-4150-adb9-e76fb24e7256?source=linked_in_profile)
+                  <br>2. [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/0228ffc6-5c5e-450e-b5f7-cb2609369632?source=linked_in_profile)
+                  <br>3. [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/17509abe-5734-4889-9eb0-f398cc03e806?source=linked_in_profile)"
+  certificateURL: "https://www.credly.com/badges/ff1c6fb4-871b-4150-adb9-e76fb24e7256?source=linked_in_profile"
 
-- name: Machine Learning
+- name: Conversational AI
   #timeline: "March 2018 - March 2019"
   organization:
-    name: Stanford University
-    url: https://www.coursera.org/learn/machine-learning
-  courseOverview: "This course provides a broad introduction to machine learning, data mining and statistical pattern recognition. Topics include supervised learning, unsupervised learning and the best practices in machine learning. course also includes numerous case studies and applications of machine learning."
-  certificateURL: "https://www.coursera.org/account/accomplishments/verify/QLL99A7NAR9K"
+    name: Kore.ai
+    url: https://kore.ai/
+  courseOverview: "Kore.ai Certified Professional - Virtual Assistant Platform Developer Basic & Advance Training Certifications."
+  certificateURL: "files/kore-ai-advanced.pdf"
 
 - name: Deep Learning Specialization
   #timeline: "March 2018 - March 2019"
   organization:
     name: DeepLearning.ai
     url: https://www.coursera.org/specializations/deep-learning
+  # courseOverview: "This course is a specialization in deep learning. It includes 
+  # 1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/927UKXRXTK6P) 
+  # 2.[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/8UGVDY34RWEL)
+  # 3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/VTPND4WVTP67)
+  # 4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/JMRHVW5YBLB3)
+  # "
   courseOverview: "This course is a specialization in deep learning. It includes 
-  1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/927UKXRXTK6P) 
-  2.[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/8UGVDY34RWEL)
-  3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/VTPND4WVTP67)
-  4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/JMRHVW5YBLB3)
+  <li> [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/KPE6G93EW3ZG)
+  <li> [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/7VXBURGGZ5V2)
+  <li> [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/MF3ZPJ4LBGWJ)
+  <li> [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/T8VQ6QX5ZQPH)
   "
-  certificateURL: "https://www.coursera.org/account/accomplishments/verify/927UKXRXTK6P"
+  certificateURL: "https://www.coursera.org/account/accomplishments/verify/KPE6G93EW3ZG"
 
-- name: Advanced SQL
+- name: Hackathons & Coding Competitions
   #timeline: "March 2018 - March 2019"
-  organization:
-    name: Kaggle
-    url: https://www.kaggle.com/learn/advanced-sql
-  courseOverview: "This course covered basics to advanced SQL with BigQuery."
-  certificateURL: "https://www.kaggle.com/learn/certification/ashwathshetty/advanced-sql"
+  # organization:
+  #   name: 
+    # url: https://www.udemy.com/course/complete-python-bootcamp/
+  # courseOverview: "[Machine hack](https://machinehack.com/user/profile/ui/5fb74a785067312a2af5315d)
+  #    <li> [26th / Top 2% in all India Analytics Olympiad](https://machinehack.com/hackathons/data_analytics_championship/leaderboard)
+  #    <li> [76(Top 5%) in Deloitte hackathon](https://machinehack.com/hackathon/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/leaderboard)
+  #    <li>[41(Top 7%) in Tredence hackathon](https://machinehack.com/hackathon/odetocode_predicting_weather_using_alien_fruit_properties/leaderboard)<br>
+  #   <br>[51(Top 1%) in Hackerearth's Amex hackathon](https://www.hackerearth.com/challenges/competitive/amexpert-code-lab/leaderboard/credit-card-default-risk-5-95cbc85f/page/2/)<br>
+  #   <br>[34th(Top 1% percent) in Analytics Vidya's AmExpert Hackathon ](https://datahack.analyticsvidhya.com/contest/amexpert-2021-machine-learning-hackathon/#LeaderBoard)
+  # "
+  courseOverview: "<li> Datathon 2019 - 2nd Runners Up
+                    <li> moraXtreme 3.0 Coding Competition
+                    <li> FIT CodeRush Coding Competition 2018
+                    <li> FIT CodeRush Coding Competition 2017
+  "
+  #certificateURL: "https://www.udemy.com/certificate/UC-E158KZ4R/"
 
-- name: Summer Analytics
-  #timeline: "March 2018 - March 2019"
-  organization:
-    name: IIT Guwahati
-    url: https://iitg.ac.in/sa/caciitg/
-  courseOverview: "This online data science certification course covered the concepts of Python, Machine Learning, Web Scraping, Data Cleaning and Data Analysis. Course ended with a kaggle competition as a milestone project."
-  certificateURL: "files/certificate.pdf"
-- name: Complete Python Bootcamp
-  #timeline: "March 2018 - March 2019"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com/course/complete-python-bootcamp/
-  courseOverview: "This Course covered from beginner to advanced level topics in python. Some of the topics including core concepts, datastructures and OOP in python are covered thoroughly."
-  certificateURL: "https://www.udemy.com/certificate/UC-E158KZ4R/"
+# - name: Advanced SQL
+#   #timeline: "March 2018 - March 2019"
+#   organization:
+#     name: Kaggle
+#     url: https://www.kaggle.com/learn/advanced-sql
+#   courseOverview: "This course covered basics to advanced SQL with BigQuery."
+#   certificateURL: "https://www.kaggle.com/learn/certification/ashwathshetty/advanced-sql"
+
+# - name: Summer Analytics
+#   #timeline: "March 2018 - March 2019"
+#   organization:
+#     name: IIT Guwahati
+#     url: https://iitg.ac.in/sa/caciitg/
+#   courseOverview: "This online data science certification course covered the concepts of Python, Machine Learning, Web Scraping, Data Cleaning and Data Analysis. Course ended with a kaggle competition as a milestone project."
+#   certificateURL: "files/certificate.pdf"
+# - name: Complete Python Bootcamp
+#   #timeline: "March 2018 - March 2019"
+#   organization:
+#     name: Udemy
+#     url: https://www.udemy.com/course/complete-python-bootcamp/
+#   courseOverview: "This Course covered from beginner to advanced level topics in python. Some of the topics including core concepts, datastructures and OOP in python are covered thoroughly."
+#   certificateURL: "https://www.udemy.com/certificate/UC-E158KZ4R/"
 
 
 

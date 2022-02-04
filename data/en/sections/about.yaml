@@ -15,13 +15,13 @@ company:
   url: "https://www.engenuityai.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Ashwath_Resume_.pdf"
+# resume: "files/Ashwath_Resume_.pdf"
 
 # a summary about you
-summary: "My interest in Mathematics and Problem solving make me get into the Machine Learning field.
-          I love finding the patterns, exploring the data and solving complicated problems in a simple way.
-          I love to learn new stuff and work with like-minded people to solve interesting problems, which explains
-          why i participate a lot in hackathons and open-source projects, Keep in touch."
+summary: "Passionate AI/ML and Data Science Engineer with having great interpersonal, self-motivating, fast learning, team working skills and specially
+          experienced in the field of Artificial Intelligence. 
+          Excellent in researching, software development and analytical skills to develop Intelligent Application Solutions.
+          Love to learn new stuff and work with like-minded people to solve interesting problems."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -34,10 +34,17 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/amila-viraj/"
 
+- name: Medium
+  icon: "fab fa-medium"
+  url: "https://medium.com/@amilalunuwila"
+
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/12343112/amila-viraj"
 
+# - name: Gmail
+#   icon: "fab fa-envelope"
+#   url: "amilalunuwila@gmail.com"
 
 # - name: Kaggle
 #   icon: "fab fa-kaggle"
@@ -57,14 +64,23 @@ softSkills:
 - name: Problem Solving
   percentage: 95
   color: blue
+
 - name: Team Work
-  percentage: 90
+  percentage: 100
   color: yellow
 
 - name: Leadership
-  percentage: 85
+  percentage: 95
   color: orange
 
-- name: Public Speaking
-  percentage: 85
+- name: Fast Learning
+  percentage: 95
   color: sky
+
+- name: Creativity
+  percentage: 95
+  color: green
+
+- name: Communication
+  percentage: 95
+  color: pink

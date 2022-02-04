@@ -10,22 +10,33 @@ section:
   # hideTitle: true
 
 degrees:
-- name: B.Tech in Computer Science and Engineering
+- name: M.Sc. in Artificial Intelligence (Reading)
+  icon: fa-graduation-cap
+  timeframe: 2020-2022
+  institution:
+      name: University of Moratuwa, Sri Lanka
+      url: "https://uom.lk/"
+  
+- name: B.Sc. (Hons) in Information Technology
   icon: fa-graduation-cap
   timeframe: 2015-2019
   institution:
-    name: Dayanand Sagar University
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 8.8
-    outOf: 10
-  takenCourses:
-   showGrades: false
-   courses: 
-   - name: Data Science
-   - name: Data Structures and algorithms
-   - name: Probability and Statistics
-   - name: Machine Learning
-   - name: Database Management System
-   - name: Object Oriented Programming
+      name: University of Moratuwa, Sri Lanka
+      url: "https://uom.lk/"
+
+
+
+
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 8.8
+  #   outOf: 10
+  # takenCourses:
+  #  showGrades: false
+  #  courses: 
+  #  - name: Data Science
+  #  - name: Data Structures and algorithms
+  #  - name: Probability and Statistics
+  #  - name: Machine Learning
+  #  - name: Database Management System
+  #  - name: Object Oriented Programming
