@@ -11,6 +11,24 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Commercial Bank of Ceylon PLC
+    url: "https://www.combank.lk/"
+    location: Colombo
+    # company overview
+    overview: The Commercial Bank of Ceylon is a large commercial bank in Sri Lanka. It was established in 1939 and is one of the oldest and largest private sector banks in the country. The bank offers a range of financial products and services to individuals, businesses, and corporations, including savings and checking accounts, loans, credit cards, and investment products. The bank has a network of branches and ATMs throughout Sri Lanka, as well as international branches in Bangladesh, Myanmar, and the Maldives.
+  positions:
+  - designation: Data Scientist
+    start: August 2022
+    responsibilities:
+    - Communicate and work closely with clients, senior management, stakeholders and other technical teams for AI and Data Science based solution development.
+    - Designing, development and deployment of application components and ML pipelines.
+    - ML model training, retraining, testing and deployments.
+    - Monitoring and resolving performance issues in application components, ML models and algorithms.
+    - Maintain coding standards, conducting code reviews and support team members on technical issue resolution.
+    - Working specially on Financial use cases with different AI/ML & Big data technologies.
+
+
+- company:
     name: Engenuity Ai
     url: "https://www.engenuityai.com/"
     location: Colombo
@@ -21,12 +39,11 @@ experiences:
   - designation: Data Scientist
     start: July 2021
     responsibilities:
-    - Collaborate and work closely with clients, senior management, stakeholders and other technical teams for AI and Data Science based solution development.
-    - Designing, development and deployment of application components and ML pipelines.
-    - ML model training, retraining, testing and deployments.
-    - Monitoring and resolving performance issues in application components, ML models and algorithms.
+    - Actively contributed and guided multiple projects in multiple domains for different local and foreign clients.
+    - Data science and Data Engineering processes throughout the experience.
+    - Specially worked in Natural Language Processing (NLP), Computer Vision & Image processing, Deep Learning and Time Series ML products.
     - Maintain coding standards, conducting code reviews and support team members on technical issue resolution.
-    - Working with different projects using different technologies such as Natural Language Processing, Computer Vision & Image processing, Deep Learning (Neural Network) etc.
+
 
 - company:
     name: Virtusa Corporation

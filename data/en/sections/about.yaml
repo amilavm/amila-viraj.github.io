@@ -11,8 +11,8 @@ section:
 designation: Data Scientist
 # your company information
 company:
-  name: Engenuity Ai
-  url: "https://www.engenuityai.com/"
+  name: Commercial Bank of Ceylon PLC
+  url: "https://www.combank.lk/"
 
 # your resume. this file path should be relative to you "static" directory
 # resume: "files/Ashwath_Resume_.pdf"
