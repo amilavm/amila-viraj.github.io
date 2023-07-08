@@ -9,13 +9,13 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-degrees:
-- name: M.Sc. in Artificial Intelligence (Reading)
-  icon: fa-graduation-cap
-  timeframe: 2020-2022
-  institution:
-      name: University of Moratuwa, Sri Lanka
-      url: "https://uom.lk/"
+# degrees:
+# - name: M.Sc. in Artificial Intelligence (Reading)
+#   icon: fa-graduation-cap
+#   timeframe: 2020-2022
+#   institution:
+#       name: University of Moratuwa, Sri Lanka
+#       url: "https://uom.lk/"
   
 - name: B.Sc. (Hons) in Information Technology
   icon: fa-graduation-cap
