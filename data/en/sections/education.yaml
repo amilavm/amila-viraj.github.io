@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Master in Industrial Engineering (Data Science)
+- name: MS Industrial Engineering (Data Science)
   icon: fa-graduation-cap
   timeframe: 2023-Present
   institution:
@@ -19,7 +19,7 @@ degrees:
 
 - name: M.Sc. in Artificial Intelligence
   icon: fa-graduation-cap
-  timeframe: 2020-2022
+  timeframe: 2020-2023
   institution:
       name: University of Moratuwa, Sri Lanka
       url: "https://uom.lk/"
