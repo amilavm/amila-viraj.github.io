@@ -68,7 +68,7 @@ projects:
   # role: ML Engineer
   # repo: 
   summary: Development of an intelligent solution with backend APIs for document scanning, automating OCR parsing, and extraction of key information from different document templates (ex- rental agreements, invoices, W2 forms, etc.).
-  tags: ['Machine Learning','Computer Vision', 'Paddle OCR', 'Tesseract OCR', 'OpenCV', 'Pymupdf', 'TensorFlow', 'Flask]
+  tags: ['Machine Learning','Computer Vision', 'Paddle OCR', 'Tesseract OCR', 'OpenCV', 'Pymupdf', 'TensorFlow', 'Flask']
 
 
 - name: Deep Learning Based Named Entity Recognition
