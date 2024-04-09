@@ -43,9 +43,9 @@ socialLinks:
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/12343112/amila-viraj"
 
-- name: Gmail
-  icon: "fab fa-envelope"
-  url: "amila.viraj.ms@gmail.com"
+# - name: Gmail
+#   icon: "fab fa-envelope"
+#   url: "amila.viraj.ms@gmail.com"
 
 # - name: Kaggle
 #   icon: "fab fa-kaggle"
