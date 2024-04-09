@@ -42,16 +42,14 @@ projects:
   role: Lead Engineer (Data Science) / Developer
   # repo: https://github.com/amilavm/auto-inspect-pro
   url: https://drive.google.com/file/d/1nrimtaSnOIIsa4VV-vrpnqCgl2tidcfP/view
-  summary: Won Silver Award in NBQSA 2023.
-  A robust financial modeling solution, incorporating financial, exchange markets & other socio-economic indexes to forecast future market trends.
+  summary: Won Silver Award in NBQSA 2023. A robust financial modeling solution, incorporating financial, exchange markets & other socio-economic indexes to forecast future market trends.
   tags: ['Machine Learning', 'Visualizations', 'Time Series', 'Python', 'Scikit-learn', 'Apache Airflow', 'Tableau', 'SQL', 'Apache Spark']
 
 - name: Lucid - Document Review, Processing & OCR Extraction
   logo: /images/sections/projects/datacenters.png
   role: Project Lead/ Developer
   repo: https://github.com/amilavm/lucid
-  summary: NLP rich, intelligent solution for document scanning, automated OCR parsing, and extraction of key information and context aware content searching  from
-different pdf and image documents.
+  summary: NLP rich, intelligent solution for document scanning, automated OCR parsing, and extraction of key information and context aware content searching  from different pdf and image documents.
   tags: ['Machine Learning', 'NLP', 'Python', 'Image Processing', 'Image Processing', 'Tesseract OCR', 'Pymupdf', 'OpenCV', 'Transformers',  'TensorFlow', 'FastAPI', 'Docker']
   
 - name: Sales Forecasting Modelling
@@ -95,16 +93,12 @@ different pdf and image documents.
   logo: /images/sections/projects/car.png
   role: ML Engineer
   # repo: 
-  summary: NLP based intelligent solution to digitize and classification of different user-based banking documents including images. 
-          The project was focused on building intelligent application components to classify different documents collected from 
-          various sources. Also comprises different modules to enhance the quality of the documents, extract text/characters from the
-          documents, handling file types & classifications of documents.
+  summary: NLP based intelligent solution to digitize and classification of different user-based banking documents including images. The project was focused on building intelligent application components to classify different documents collected from various sources. Also comprises different modules to enhance the quality of the documents, extract text/characters from the documents, handling file types & classifications of documents.
   tags: ['Machine Learning','Python', 'OCR', 'Pandas', 'Numpy', 'Scikit Learn','NLP', 'NLTK']
 
 - name: Profile Based Sentiment Analysis
   logo: /images/sections/projects/letter.jpg
   role: Owner
   # repo: 
-  summary: Sentiment Analysis solution from news article contents to identify the sentiment tones which are
-            obtained as search results for entities that appear in financial transactions.
+  summary: Sentiment Analysis solution from news article contents to identify the sentiment tones which are obtained as search results for entities that appear in financial transactions.
   tags: ['NLP','Python', 'Custom Search', 'Pandas', 'Numpy', 'Scikit Learn']
