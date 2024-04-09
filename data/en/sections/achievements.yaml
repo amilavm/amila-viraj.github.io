@@ -12,9 +12,9 @@ achievements:
   image: /images/sections/achievements/img2.jpg
   summary: Data Science Hackathon Organized By Dialog Axiata Group.
 
-- title: ChallengerX - Finalist
-  image: /images/sections/achievements/chx.jpeg
-  summary: Data Science Hackathon Organized By IFS.
+# - title: ChallengerX - Finalist
+#   image: /images/sections/achievements/chx.jpeg
+#   summary: Data Science Hackathon Organized By IFS.
   
 # - title: Top 2 Percentage
 #   image: /images/sections/achievements/Olympiad.jpg
