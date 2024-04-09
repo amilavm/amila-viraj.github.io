@@ -4,5 +4,3 @@ node_modules
 dist
 coverage
 .env
-*/.DS_Store
-*/node_modules
