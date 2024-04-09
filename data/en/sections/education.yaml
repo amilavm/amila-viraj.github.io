@@ -16,18 +16,18 @@ degrees:
   institution:
       name: State University of New York at Buffalo, NY, USA
       url: "https://www.buffalo.edu/"
-  takenCourses:
-   showGrades: false
-   courses: 
-   - name: Statistical Machine Learning
-   - name: Deep Learning
-   - name: Data Analysis & Predictive Modeling
-   - name: Data Mining
-   - name: Data Intensive Computing
-   - name: Decision Systems (Modeling & Risk Informed Decision Making)
-   - name: GeoSpatial Optimizations & Dynamic Visualization
-   - name: Business Intelligence & Data Analytics
-   - name: Project Management
+  # takenCourses:
+  #  showGrades: false
+  #  courses: 
+  #  - name: Statistical Machine Learning
+  #  - name: Deep Learning
+  #  - name: Data Analysis & Predictive Modeling
+  #  - name: Data Mining
+  #  - name: Data Intensive Computing
+  #  - name: Decision Systems (Modeling & Risk Informed Decision Making)
+  #  - name: GeoSpatial Optimizations & Dynamic Visualization
+  #  - name: Business Intelligence & Data Analytics
+  #  - name: Project Management
 
 - name: M.Sc. in Artificial Intelligence
   icon: fa-graduation-cap
@@ -35,23 +35,23 @@ degrees:
   institution:
       name: University of Moratuwa, Sri Lanka
       url: "https://uom.lk/"
-  takenCourses:
-   showGrades: false
-   courses: 
-   - name: Neuroscience & Neurocomputing
-   - name: Natural Language Processing
-   - name: Applied Machine Learning
-   - name: Reinforcement Learning
-   - name: Artificial Cognitive Systems
-   - name: Evolutionary Computing
-   - name: Fuzzy Reasoning
-   - name: Data Mining & Data Warehousing
-   - name: Embedded Robotics
-   - name: Distributed Computing Systems for AI
-   - name: Deductive Reasoning & Logic Programming
-   - name: Software Agents & Swarm Intelligence
-   - name: Research Methodologies
-   - name: Philosophy of Science
+  # takenCourses:
+  #  showGrades: false
+  #  courses: 
+  #  - name: Neuroscience & Neurocomputing
+  #  - name: Natural Language Processing
+  #  - name: Applied Machine Learning
+  #  - name: Reinforcement Learning
+  #  - name: Artificial Cognitive Systems
+  #  - name: Evolutionary Computing
+  #  - name: Fuzzy Reasoning
+  #  - name: Data Mining & Data Warehousing
+  #  - name: Embedded Robotics
+  #  - name: Distributed Computing Systems for AI
+  #  - name: Deductive Reasoning & Logic Programming
+  #  - name: Software Agents & Swarm Intelligence
+  #  - name: Research Methodologies
+  #  - name: Philosophy of Science
    
 - name: B.Sc. (Hons) in Information Technology
   icon: fa-graduation-cap
@@ -59,18 +59,18 @@ degrees:
   institution:
       name: University of Moratuwa, Sri Lanka
       url: "https://uom.lk/"
-  takenCourses:
-   showGrades: false
-   courses: 
-   - name: Data Structures and Algorithms
-   - name: Software Engineering 
-   - name: Artificial Intelligence
-   - name: Enterprise Application Development
-   - name: Object Oriented Programming
-   - name: Database Management Systems
-   - name: Digital Image Processing
-   - name: Human Computer Interaction
-   - name: Supply Chain Management
+  # takenCourses:
+  #  showGrades: false
+  #  courses: 
+  #  - name: Data Structures and Algorithms
+  #  - name: Software Engineering 
+  #  - name: Artificial Intelligence
+  #  - name: Enterprise Application Development
+  #  - name: Object Oriented Programming
+  #  - name: Database Management Systems
+  #  - name: Digital Image Processing
+  #  - name: Human Computer Interaction
+  #  - name: Supply Chain Management
 
 
 
