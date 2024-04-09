@@ -8,9 +8,13 @@ section:
   # hideTitle: true
 achievements:
 
-- title: Datathon - 2nd Runners Up
-  image: /images/sections/achievements/img2.jpg
-  summary: Sri Lanka's First Data Science Hackathon Organized By Dialog Axiata.
+- title: Datathon - 2nd Runner Up
+  # image: /images/sections/achievements/img2.jpg
+  summary: Data Science Hackathon Organized By Dialog Axiata Group.
+
+- title: ChallengerX - Finalist
+  # image: /images/sections/achievements/img2.jpg
+  summary: Data Science Hackathon Organized By IFS.
   
 # - title: Top 2 Percentage
 #   image: /images/sections/achievements/Olympiad.jpg

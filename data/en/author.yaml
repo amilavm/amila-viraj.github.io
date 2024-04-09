@@ -5,12 +5,12 @@ greeting: "Hi, I am"
 image: "images/author/amilavm.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "amilalunuwila@gmail.com"
-  phone: '+94 726772396'
+  email:  'amila.viraj.ms@gmail.com'
+  phone:  '+1 (716) 256-4075'
 
 # some summary about what you do
 summary:
   - I am a Data Scientist
-  - I am a Software Engineer
-  - I am an ML Engineer
+  - I am an AI/ML Engineer
+  - I am a Researcher
   - I love to work with data

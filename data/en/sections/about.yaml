@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Scientist
+designation: Senior Lead Engineer - Data Science
 # your company information
 company:
   name: Commercial Bank of Ceylon PLC
@@ -18,10 +18,11 @@ company:
 # resume: "files/Ashwath_Resume_.pdf"
 
 # a summary about you
-summary: "Passionate AI/ML and Data Science Engineer with having great interpersonal, self-motivating, fast learning, team working skills and specially
-          experienced in the field of Artificial Intelligence. 
-          Excellent in researching, software development and analytical skills to develop Intelligent Application Solutions.
-          Love to learn new stuff and work with like-minded people to solve interesting problems."
+summary: "Experienced Data Scientist with 6+ years including Machine Learning and Software Engineering; 
+          excels in developing AI applications and exploring new technologies. 
+          Recognized for strategic problem-solving and operational improvements with a strong analytical background.
+          Passionate about AI/ML and Data Science, with great interpersonal, self-motivating, fast learning, team working skills.
+          Love to learn new stuff and work with like-minded people to solve interesting real-world problems."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -48,7 +49,7 @@ socialLinks:
 
 # - name: Kaggle
 #   icon: "fab fa-kaggle"
-#   url: "https://www.kaggle.com/ashwathshetty"
+#   url: "https://www.kaggle.com/"
 
 
 
@@ -74,7 +75,7 @@ softSkills:
   color: orange
 
 - name: Fast Learning
-  percentage: 95
+  percentage: 100
   color: sky
 
 - name: Creativity

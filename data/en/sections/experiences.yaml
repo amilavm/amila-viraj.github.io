@@ -15,12 +15,14 @@ experiences:
     url: "https://www.combank.lk/"
     location: Colombo
     # company overview
-    overview: The Commercial Bank of Ceylon is a large commercial bank in Sri Lanka. It was established in 1939 and is one of the oldest and largest private sector banks in the country. The bank offers a range of financial products and services to individuals, businesses, and corporations, including savings and checking accounts, loans, credit cards, and investment products. The bank has a network of branches and ATMs throughout Sri Lanka, as well as international branches in Bangladesh, Myanmar, and the Maldives.
+    overview: The Commercial Bank of Ceylon is a large commercial bank in Sri Lanka. It was established in 1939 and is one of the oldest and the largest private sector bank in the country. The bank offers a range of financial products and services to individuals, businesses, and corporations, including savings and checking accounts, loans, credit cards, and investment products. The bank has a network of branches and ATMs throughout Sri Lanka, as well as international branches in Bangladesh, Myanmar, and the Maldives.
   positions:
-  - designation: Data Scientist
+  - designation: Senior Lead Engineer - Data Science
     start: August 2022
+    end: August 2023
     responsibilities:
     - Communicate and work closely with clients, senior management, stakeholders and other technical teams for AI and Data Science based solution development.
+    - Developed an award-winning financial modeling solution to identify potential corporate customers, which increased the bank's revenues.
     - Designing, development and deployment of application components and ML pipelines.
     - ML model training, retraining, testing and deployments.
     - Monitoring and resolving performance issues in application components, ML models and algorithms.
@@ -38,6 +40,7 @@ experiences:
   positions:
   - designation: Data Scientist
     start: July 2021
+    end: July 2022
     responsibilities:
     - Actively contributed and guided multiple projects in multiple domains for different local and foreign clients.
     - Data science and Data Engineering processes throughout the experience.
