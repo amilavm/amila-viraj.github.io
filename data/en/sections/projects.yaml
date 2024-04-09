@@ -60,7 +60,7 @@ projects:
   # summary: This Web App Predicts the price of the Car based on the user provided inputs. [Click here to see the live demo](https://car--price-predictor.herokuapp.com/)
   summary: Purpose of this project was to build a sales forecasting model incorporating external factors in order to forecast future sales accurately.
 
-  tags: ["Regression","Machine Learning","Time Series","Statistical Modeling","Python", 'PowerBI', 'Pandas', 'Scikit Learn', 'Matplotlib']
+  tags: ["Regression","Machine Learning", "Visualizations", "Time Series","Statistical Modeling","Python", 'PowerBI', 'Pandas', 'Scikit Learn', 'Matplotlib']
 
 
 - name: Renters OCR Extraction & Document Processing

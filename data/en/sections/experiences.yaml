@@ -14,6 +14,7 @@ experiences:
     name: Commercial Bank of Ceylon PLC
     url: "https://www.combank.lk/"
     location: Colombo
+    logo: /images/experiences/combank.png
     # company overview
     overview: The Commercial Bank of Ceylon is a large commercial bank in Sri Lanka. It was established in 1939 and is one of the oldest and the largest private sector bank in the country. The bank offers a range of financial products and services to individuals, businesses, and corporations, including savings and checking accounts, loans, credit cards, and investment products. The bank has a network of branches and ATMs throughout Sri Lanka, as well as international branches in Bangladesh, Myanmar, and the Maldives.
   positions:
@@ -34,6 +35,7 @@ experiences:
     name: Engenuity Ai
     url: "https://www.engenuityai.com/"
     location: Colombo
+    logo: /images/experiences/en.png
     # company overview
     overview: Engenuity Ai is a cutting edge Ai and Data Science company which helps clients to extract valuable business insights from their data to better understand their audience, forecast demand, reduce risks, prevent cost overruns, also to create innovative & market-leading solutions and much more.
   positions:
@@ -48,9 +50,10 @@ experiences:
 
 
 - company:
-    name: Virtusa Corporation
+    name: Virtusa
     url: "https://www.virtusa.com/"
     location: Colombo
+    logo: /images/experiences/virtusa.png
     # company overview
     overview: Virtusa Corporation is a global provider of Digital Business Transformation, Digital Engineering, and 
               Information Technology (IT) outsourcing services that accelerate our clients’ journey to their Digital Future. 
@@ -83,7 +86,8 @@ experiences:
 - company:
     name: Omdena
     url: "https://omdena.com/"
-    #location: Bengaluru
+    location: Remote
+    logo: /images/experiences/omdena.png
     # company overview
     overview: Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems.
   positions:

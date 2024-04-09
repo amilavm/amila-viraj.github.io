@@ -27,13 +27,17 @@ summary: "Experienced Data Scientist with 6+ years including Machine Learning an
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/amilavm"
+- name: Email
+  icon: "fas fa-envelope"
+  url: "amila.viraj.ms@gmail.com"
 
 - name: Linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/amila-viraj/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/amilavm"
 
 - name: Medium
   icon: "fab fa-medium"
@@ -56,32 +60,38 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-certification:
-- name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+# certification:
+# - name: Artificial Intelligence and Machine Learning
+#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
-softSkills:
-- name: Problem Solving
+badges:
+- type: soft-skill-indicator
+  name: Problem Solving
   percentage: 95
   color: blue
 
-- name: Team Work
+- type: soft-skill-indicator
+  name: Team Work
   percentage: 100
   color: yellow
 
-- name: Leadership
+- type: soft-skill-indicator
+  name: Leadership
   percentage: 95
   color: orange
 
-- name: Fast Learning
+- type: soft-skill-indicator
+  name: Fast Learning
   percentage: 100
   color: sky
 
-- name: Creativity
+- type: soft-skill-indicator
+  name: Creativity
   percentage: 95
   color: green
 
-- name: Communication
+- type: soft-skill-indicator
+  name: Communication
   percentage: 95
   color: pink

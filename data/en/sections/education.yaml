@@ -16,6 +16,7 @@ degrees:
   institution:
       name: State University of New York at Buffalo, NY, USA
       url: "https://www.buffalo.edu/"
+      logo: "images/education/UB_Primary_Small.png"
   takenCourses:
    showGrades: false
    courses: 
@@ -35,6 +36,7 @@ degrees:
   institution:
       name: University of Moratuwa, Sri Lanka
       url: "https://uom.lk/"
+      logo: "images/education/uom_logo.png"
   takenCourses:
    showGrades: false
    courses: 
@@ -59,6 +61,7 @@ degrees:
   institution:
       name: University of Moratuwa, Sri Lanka
       url: "https://uom.lk/"
+      logo: "images/education/uom_logo.png"
   takenCourses:
    showGrades: false
    courses: 
