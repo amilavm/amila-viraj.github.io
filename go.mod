@@ -1,4 +1,4 @@
-module github.com/amilavm/amilav
+module github.com/amilavm/amila-viraj
 
 go 1.22.2
 
